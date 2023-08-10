@@ -1,6 +1,6 @@
 # Scripts
 
-## [Boto3 Script for AWS EC2 Instance Information](https://github.com/SilverLine-Security/Scripts/blob/main/describeInstance.py)
+## Boto3 Script for AWS EC2 Instance Information
 ### Description
 This Python script demonstrates the use of the Boto3 library to interact with Amazon Web Services (AWS) EC2 instances. It specifically focuses on retrieving information about EC2 instances running on an Ubuntu server using its private IP address.
 
@@ -15,4 +15,7 @@ The purpose of this script is educational and informational. It is intended for 
 This script is provided for educational and informational purposes only. It is not intended for any malicious or unauthorized activities, including but not limited to hacking, penetration testing, or any other unauthorized access to computer systems. The script should only be used legally and responsibly, in compliance with all applicable laws and regulations. It is essential to use this script to improve security measures and enhance your understanding of AWS services, without violating any terms of use or policies set by AWS or any other relevant entity.
 
 Please ensure that you have the appropriate authorization and permissions before using this script. The authors and contributors of this script are not responsible for any misuse, damage, or legal consequences that may arise from the use of this script.
+
+### Links for Scripts
+[Boto3 Script for AWS EC2 Instance](https://github.com/SilverLine-Security/Scripts/blob/main/describeInstance.py)
 
